@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="convert_from">Convert from</string>
+    <string name="convert_to">Convert to</string>
+    <string name="number_incorrect_error">Please enter a decimal number</string>
+    <string name="internet_warning">Warning! Internet is unreachable! App will continue use cache data if available
+        until app is back online
+    </string>
+    <string name="something_wrong">No data available</string>
+    <string-array name="currencies_array">
+        <item>EUR</item>
+        <item>RUB</item>
+        <item>USD</item>
+    </string-array>
+</resources>

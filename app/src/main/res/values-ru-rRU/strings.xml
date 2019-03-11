@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Конвертер валют</string>
+    <string name="convert_from">Конвертировать из</string>
+    <string name="convert_to">Конвертировать в</string>
+    <string name="number_incorrect_error">Пожалуйста, введите число</string>
+    <string name="internet_warning">"Мы оффлайн! Приложение будет использовать кэшированные данные до подключения к Интернету"
+    </string>
+    <string name="something_wrong">Данные недоступны</string>
+</resources>
